@@ -1,5 +1,4 @@
 {
   "name": "Vidly",
-  "jwtPrivateKey": "jwtPrivateKey",
-  "db": "vidly_db"
+  "jwtPrivateKey": "jwtPrivateKey"
 }
